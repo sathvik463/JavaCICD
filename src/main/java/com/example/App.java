@@ -7,7 +7,7 @@ public class App {
     }
 
     public static void main(String[] args) {
-        System.out.println("Java CI/CD Project");
+        System.out.println("Java CI/CD Automatic Build.");
         System.out.println("Sum = " + add(10, 20));
     }
 }
